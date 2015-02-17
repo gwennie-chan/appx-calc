@@ -1,0 +1,5 @@
+#Objects & Executables
+*.o
+*.obj
+*.exe
+appx-calc
